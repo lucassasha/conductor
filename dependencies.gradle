@@ -17,7 +17,7 @@
 ext {
     revActivation = '2.0.0'
     revAwaitility = '3.1.6'
-    revAwsSdk = '1.11.86'
+    revAwsSdk = '1.12.261'
     revBval = '2.0.5'
     revCassandra = '3.10.2'
     revCassandraUnit = '3.11.2.0'
