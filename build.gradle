@@ -99,7 +99,7 @@ allprojects {
         implementation('org.apache.logging.log4j:log4j-core') {
             version {
                 // this is the preferred version this library will use
-                prefer '2.17.3'
+                prefer '2.17.2'
                 // the strict bounds, effectively allowing any 2.x version greater than 2.17.2
                 // could also remove the upper bound entirely if we wanted too
                 strictly '[2.17.2,3.0)'
