@@ -28,7 +28,7 @@ ext {
     revEurekaClient = '1.10.10'
     revGroovy = '2.5.13'
     revGrpc = '1.+'
-    revGuava = '30.0-jre'
+    revGuava = '32.0.1-android'
     revHamcrestAllMatchers = '1.8'
     revHealth = '1.1.+'
     revJAXB = '2.3.3'
