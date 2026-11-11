@@ -39,7 +39,7 @@
     "url-parse": "^1.5.1",
     "use-local-storage-state": "^10.0.0",
     "xss": "^1.0.8",
-    "yup": "^0.32.11"
+    "yup": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
